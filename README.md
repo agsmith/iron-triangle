@@ -9,6 +9,7 @@
 - Exercise 1 hour/day
 - Alcohol moderation
 - Carb moderation
+- Pack lunch
 
 ## Spirit
 - Go to church
