@@ -20,14 +20,14 @@
 
 
 # My Daily Habits
-20 mins calistenics each morning (B)
-read 10 mins (M, S)
-1 hour of phone down family time (S)
-No booze Mon, Tue, Wed 
-pickelball tuesday (B,S)
-basketball wednesday (B,S)
-racquetball thursday (B,S)
-square bar thursday (S)
-golf friday (B, S)
-clean master bedroom saturday (S)
-church sunday (M, B, S)
+- 20 mins calistenics each morning (B)
+- read 10 mins (M, S)
+- 1 hour of phone down family time (S)
+- No booze Mon, Tue, Wed 
+- pickelball tuesday (B,S)
+- basketball wednesday (B,S)
+- racquetball thursday (B,S)
+- square bar thursday (S)
+- golf friday (B, S)
+- clean master bedroom saturday (S)
+- church sunday (M, B, S)
